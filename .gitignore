@@ -1,2 +1,8 @@
 go.sum
+go.mod
 .env
+*.local
+.DS_Store
+*.log
+tmp/
+dump.html
